@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_responsive_design_1/static/css/main.e71db184.chunk.css",
+    "main.js": "/react_responsive_design_1/static/js/main.9ec5b7e0.chunk.js",
+    "main.js.map": "/react_responsive_design_1/static/js/main.9ec5b7e0.chunk.js.map",
+    "runtime-main.js": "/react_responsive_design_1/static/js/runtime-main.08181809.js",
+    "runtime-main.js.map": "/react_responsive_design_1/static/js/runtime-main.08181809.js.map",
+    "static/js/2.dd6b15be.chunk.js": "/react_responsive_design_1/static/js/2.dd6b15be.chunk.js",
+    "static/js/2.dd6b15be.chunk.js.map": "/react_responsive_design_1/static/js/2.dd6b15be.chunk.js.map",
+    "static/js/3.8815b862.chunk.js": "/react_responsive_design_1/static/js/3.8815b862.chunk.js",
+    "static/js/3.8815b862.chunk.js.map": "/react_responsive_design_1/static/js/3.8815b862.chunk.js.map",
+    "index.html": "/react_responsive_design_1/index.html",
+    "static/css/main.e71db184.chunk.css.map": "/react_responsive_design_1/static/css/main.e71db184.chunk.css.map",
+    "static/js/2.dd6b15be.chunk.js.LICENSE.txt": "/react_responsive_design_1/static/js/2.dd6b15be.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react_responsive_design_1/static/media/Poppins-Regular.8081832f.ttf",
+    "static/media/App.css": "/react_responsive_design_1/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08181809.js",
+    "static/js/2.dd6b15be.chunk.js",
+    "static/css/main.e71db184.chunk.css",
+    "static/js/main.9ec5b7e0.chunk.js"
+  ]
+}
